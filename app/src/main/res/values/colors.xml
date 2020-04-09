@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8BC34A</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWaterBlue">#dbeef4</color>
+    <color name="colorwhite">#FFFFFF</color>
+    <color name="colorblack">#020202</color>
+    <color name="settingbar">#90cbdd</color>
+    <color name="fragmentBG">#a2d3e3</color>
+    <color name="fontColor_1">#eff7fa</color>
+    <color name="click">#83B8C9</color>
+    <color name="Lgreen">#c3d4a5</color>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">eTarge</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="BluetoothConnect">子機電量</string>
+    <string name="StandBy">待命</string>
+    <string name="StopTimming">停止計時(滿足條件)</string>
+    <string name="Unmet">擊中未滿足</string>
+    <string name="complete">條件滿足</string>
+    <string name="HitAgain">完成後再擊中</string>
+    <string name="HitTwice">一秒內擊中兩次</string>
+    <string name="HitThree">一秒內擊中三次</string>
+    <string name="interruption">停止計時(中斷)</string>
+    <string name="register">會員註冊</string>
+    <string name="SingnIn">登入</string>
+    <string name="Setting">設定</string>
+    <string name="QuickStart">快速開始</string>
+    <string name="Challenge">關卡挑戰</string>
+    <string name="Stastic">統計</string>
+</resources>

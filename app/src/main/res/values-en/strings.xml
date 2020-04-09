@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eTarge</string>
+    <string name="BluetoothConnect">Host power</string>
+    <string name="Challenge">STAGE"\n"CHALLENGE</string>
+    <string name="HitAgain">Hit again after "\n"completion</string>
+    <string name="HitThree">Hit three times "\n"in one second</string>
+    <string name="HitTwice">Hit twice in one second</string>
+    <string name="StopTimming">Stop timing"\n"(satisfying conditions)</string>
+    <string name="complete">complete</string>
+    <string name="Unmet">Unmet condition</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="interruption">Stop timing (interruption)</string>
+    <string name="register">Register</string>
+    <string name="Stastic">statistics</string>
+    <string name="StandBy">Stand by</string>
+    <string name="SingnIn">Sign in</string>
+    <string name="Setting">Setting</string>
+    <string name="QuickStart">QUICK"\n"START</string>
+</resources>
